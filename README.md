@@ -21,5 +21,3 @@ Resides in Ignore.txt
 <br>
 <h2>How to use:</h2>
 <p>Add content from Ignore.txt file to ".git\info\exclude" File</p>
-<h2>To contribute:</h2>
-<p>Fork this repo and send a pull request to the 'requests' branch.</p>
